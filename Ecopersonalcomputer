@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecopersonalcomputer</title>
+</head>
+<body>
+    <h1>Benvenuto su Ecopersonalcomputer!</h1>
+    <p>Il tuo punto di riferimento per soluzioni informatiche ecologiche.</p>
+
+    <!-- Immagine -->
+    <img src="URL_DELL_IMMAGINE" alt=" https://www.facebook.com/photo/?fbid=765065591576000&set=a.765065561576003">
+
+    <!-- Collegamenti ai social -->
+    <h2>Seguici sui social:</h2>
+    <ul>
+        <li><a href="https://www.facebook.com/leonardogovoni68">Facebook</a></li>
+        <li><a href="https://www.instagram.com/leonardogovoni/">Instagram</a></li>
+        <li><a href="https://twitter.com/Leonard58986141">Twitter</a></li>
+        <li><a href="https://www.google.com/search?q=Ecopersonalcomputer&stick=H4sIAAAAAAAA_-NgU1I1qDAxN09LtjBMM09JNrc0Tba0MqgwNTZLS7W0MDFLSk0zSjYzXsQq7JqcX5BaVJyfl5iTnJ9bUFqSWgQA__S7Ej8AAAA&hl=it&mat=CaMCJEvb-UO1ElcBezTaAWvCiLsQ-bSV1OropeTlY60c1NnOhT6NtTN0I00HIW45qXCszFJTasxao98OYqSyKDfI-UPH3uADmaLaEAaI4WYq11w8kgdcc0vByU_n11bgtvQ&authuser=0">Google</a></li>
+    </ul>
+</body>
+</html>
